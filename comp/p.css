@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+/*========================*/
+.card{
+    border-radius: 20px;
+}
+
+.card-1 .card-sec-1{
+    background-color: #BCADFC !important;
+   
+   
+}
+section  .card{
+    background-color: #997EFA;
+    color: white;
+    border: none;
+}
+.card .card-sec-1{
+    border-bottom: solid 2px   #BCADFC;
+}
+.sec-1 .image div,.sec-2{
+    color: white;
+}
+.image-2{
+     
+  /* margin-top: 100px; */
+}
+
+.sec-2 div{
+    width: 200px;
+    height: 190px;
+    background-color: #997EFA;
+    border-radius: 20px;
+
+}
+.sec-2 div p{
+    font-size: 14px;
+}
+
+.logo{
+    width: 180px;
+   height: 65px;
+}
+.text-header{
+    font-size: 20px;
+    margin-top: -120px;
+}
+h1{
+    font-family: 'Telegraf';
+    font-size: 60px;
+ 
+}
